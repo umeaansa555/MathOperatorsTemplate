@@ -27,7 +27,6 @@ namespace MathOperatorsTemplate
             // Variable Declarations
             double numberOne, numberTwo, numberThree;
             double sum, difference, product, quotient;
-            const double PRICE = 11.2;
 
             //Variable Assignment
             numberOne = 30;
