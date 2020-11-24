@@ -1,4 +1,4 @@
-﻿/* date: September 2012
+﻿/* date: September 2021
  * author: Mr. T.
  * purpose: template created to demonstrate math operations
  */
@@ -87,9 +87,6 @@ namespace MathOperatorsTemplate
 
 
             // 9. Decrement the value created above by 1 using -- and dislay it          
-
-
-            // 10. Format the output of question 7 above to show dollar signs and 2 decimal places
 
 
         }
